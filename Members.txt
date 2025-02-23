@@ -1,0 +1,4 @@
+Employee:John Jake Doe:29/2/2000:Single:6:20/2/2021:10/12/2023:Cyber Security:BSc
+Trainer:Jane Jacob Doe:14/10/2003:Married:3:1/1/2025:NO DOR:Artificial Intelligence:Master:PSUT:NO EV
+Worker:Yousif Ahmed Abudieh:10/11/2003:Single:0:1/1/2023:NO DOR:Cyber Security:BSc:250 Hours
+Constants:base=300.0:diploma=50.0:bsc=100.0:master=120.0:phd=300.0:married=100.0:child=100.0
