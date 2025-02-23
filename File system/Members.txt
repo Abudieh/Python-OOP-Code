@@ -1,6 +1,0 @@
-Trainer:Yousef Hisham Haymour:1/5/1997:Married:2:1/10/2019:1/1/2023:Software Engineering:Master:PSUT:99.0
-Employee:Osama Alaa Najjar:29/2/1970:Married:3:22/3/2021:NO DOR:AI:Ph.D.
-Trainer:Ibraheem Ahmed Abudieh:17/2/2000:Married:0:1/1/2022:NO DOR:Physician:BSc:Fuhais Hospital:NO EV
-Employee:Saif Omar Najjar:28/2/1998:Single:0:1/1/2022:NO DOR:AI:Diploma
-Employee:Saif Maher Herzallah:7/9/2007:Married:5:28/2/2023:NO DOR:Cyber Security:Ph.D.
-Constants:base=300.0:diploma=50.0:bsc=100.0:master=120.0:phd=300.0:married=100.0:child=100.0
